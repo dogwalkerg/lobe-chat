@@ -55,7 +55,7 @@ const metadata: Metadata = {
 
   title: {
     default: title,
-    template: '%s · ',
+    template: '%s · Chat.AI',
   },
   twitter: {
     card: 'summary_large_image',
